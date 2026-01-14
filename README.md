@@ -66,7 +66,7 @@ Install dependencies
 pip install -r requirements.txt
 
 Run the application
-streamlit run app.py
+!streamlit run splash.py
 
 
 The app will open at:
